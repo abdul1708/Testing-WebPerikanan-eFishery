@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Testing-WebDataPerikanan-eFishery/static/css/main.67ee3c64.chunk.css",
+    "main.js": "/Testing-WebDataPerikanan-eFishery/static/js/main.420ff2a1.chunk.js",
+    "main.js.map": "/Testing-WebDataPerikanan-eFishery/static/js/main.420ff2a1.chunk.js.map",
+    "runtime-main.js": "/Testing-WebDataPerikanan-eFishery/static/js/runtime-main.af7cedd9.js",
+    "runtime-main.js.map": "/Testing-WebDataPerikanan-eFishery/static/js/runtime-main.af7cedd9.js.map",
+    "static/js/2.22d024e0.chunk.js": "/Testing-WebDataPerikanan-eFishery/static/js/2.22d024e0.chunk.js",
+    "static/js/2.22d024e0.chunk.js.map": "/Testing-WebDataPerikanan-eFishery/static/js/2.22d024e0.chunk.js.map",
+    "index.html": "/Testing-WebDataPerikanan-eFishery/index.html",
+    "precache-manifest.06b30f8bee6bfeaca2cc8446bde5f4b6.js": "/Testing-WebDataPerikanan-eFishery/precache-manifest.06b30f8bee6bfeaca2cc8446bde5f4b6.js",
+    "service-worker.js": "/Testing-WebDataPerikanan-eFishery/service-worker.js",
+    "static/css/main.67ee3c64.chunk.css.map": "/Testing-WebDataPerikanan-eFishery/static/css/main.67ee3c64.chunk.css.map",
+    "static/js/2.22d024e0.chunk.js.LICENSE.txt": "/Testing-WebDataPerikanan-eFishery/static/js/2.22d024e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af7cedd9.js",
+    "static/js/2.22d024e0.chunk.js",
+    "static/css/main.67ee3c64.chunk.css",
+    "static/js/main.420ff2a1.chunk.js"
+  ]
+}
