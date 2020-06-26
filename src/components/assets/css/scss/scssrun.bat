@@ -1,2 +1,2 @@
-sass --watch "style.scss":"../backend-style.css"
+sass --watch "style.scss":"../style.css"
 pause

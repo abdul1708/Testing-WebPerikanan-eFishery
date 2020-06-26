@@ -1,16 +1,29 @@
 import React, { Component } from 'react'
 import { BrowserRouter, Route } from 'react-router-dom'
 
-import Home from './components/pages/dashboard/home'
+// Component 
+import Dashboard from './components/pages/dashboard/dashboard'
+import Price from './components/pages/price/price'
+import Product from './components/pages/product/product'
+
+// Layout 
+import Sidebar from './components/pages/layout/sidebar'
+import Topbar from './components/pages/layout/topbar'
 
 export default class App extends Component {
   render() {
     return (
-      <div>
-        <BrowserRouter>
-          <Route path='/' component={Home} />
-        </BrowserRouter>
-      </div>
+      <BrowserRouter>
+        <Topbar />
+        <div className='container-fluid'>
+          <div class='row'>
+            <Sidebar />
+            <Route exact path='/' component={Dashboard} />
+            <Route exact path='/price' component={Price} />
+            <Route exact path='/product' component={Product} />
+          </div>
+        </div>
+      </BrowserRouter>
     )
   }
 }

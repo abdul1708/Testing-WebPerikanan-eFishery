@@ -1,17 +1,13 @@
 
-body.modal-open{  
-	padding-right: 17px;
-	overflow:hidden;
-	z-index: -1;
-} 
+body {
+  font-size: .875rem;
+}
 
-@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
+.feather {
+  width: 16px;
+  height: 16px;
+  vertical-align: text-bottom;
+}
+
 @import 'variables';
-@import 'mixin';
-@import 'font'; 
-@import 'general';
-@import 'icon';
 @import 'component';
-@import 'navbar';
-@import 'footer'; 
-@import 'responsive'; 
